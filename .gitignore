@@ -4,3 +4,5 @@ node_modules/
 .idea
 notes.md
 npm-debug.log
+catch-of-the-day/package.json
+catch-of-the-day/package-lock.json
